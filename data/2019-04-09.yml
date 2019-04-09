@@ -1,0 +1,19 @@
+todo:
+	work:
+		- wxgenerator
+	learn:
+		- leetcode
+		- toefl
+	health:
+		- pushup 
+done:
+	work:
+		- 杂事
+	learn:
+		- leetcode:
+			- 从排序数组中删除重复项, 简单.
+			- 整数反转, 简单.
+			- 最长公共前缀, 简单.
+			- 两数相加, 中等.
+			- 有效得括号, 简单. 但是思路很重要, 开始思维产生了问题.
+	health:
