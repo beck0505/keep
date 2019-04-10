@@ -1,0 +1,16 @@
+todo:
+	work:
+	learn:
+		- leetcode
+		- toefl
+	health:
+done:
+	work:
+		- wxgenerator
+	learn:
+		- emacs:
+			- page movement etc.
+		- leetcode:
+			- 最大子序和, 简单. 但是需要思考divde方式.
+	health:
+		- pushup
