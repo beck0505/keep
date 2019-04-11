@@ -1,0 +1,15 @@
+todo:
+	work:
+	learn:
+		- leetcode
+		- toefl
+	health:
+done:
+	work:
+		- wxgenerator
+	learn:
+    - leetcode
+      - 爬楼梯, 简单, 但是发现题解中可以有事件复杂度为log(n)的, 需要再学习.
+      - 合并两个有序数组, 简单, 比想象中简单.
+  health:
+    - pushup
